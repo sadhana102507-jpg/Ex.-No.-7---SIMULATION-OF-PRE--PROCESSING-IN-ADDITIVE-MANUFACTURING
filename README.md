@@ -45,7 +45,10 @@
 
 ## Output:
 <img width="1708" height="911" alt="Screenshot 2025-12-21 150256" src="https://github.com/user-attachments/assets/cba4ae3c-d604-466d-a747-260acc662db3" />
+
 ## Explanation:
+
+
 This experiment shows the pre-processing steps required before 3D printing.
 
 In the simulation:
