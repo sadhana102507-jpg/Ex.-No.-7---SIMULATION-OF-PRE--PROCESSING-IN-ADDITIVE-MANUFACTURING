@@ -45,6 +45,20 @@
 
 ## Output:
 <img width="1708" height="911" alt="Screenshot 2025-12-21 150256" src="https://github.com/user-attachments/assets/cba4ae3c-d604-466d-a747-260acc662db3" />
+## Explanation:
+This experiment shows the pre-processing steps required before 3D printing.
+
+In the simulation:
+
+A 3D CAD model is imported.
+
+The model is oriented properly to reduce errors.
+
+Support structures are generated where needed.
+
+The model is sliced into thin layers.
+
+The output image shows the sliced model with supports, ready for printing.
 
 ### Name:SADHANA R
 ### Register Number:25017643
